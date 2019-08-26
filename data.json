@@ -73,11 +73,11 @@
         },
         {
             "link": "http://uplay.com.br/samples/games/mafiabilliards/index.html",
-            "image": "http://uplay.com.br/samples/games/banners/mafiabilliards.png"
+            "image": "http://uplay.com.br/samples/games/banners/mafiabilliard.png"
         },
         {
             "link": "https://www.mobi2win.com/html5/candyzuma/",
-            "image": "http://uplay.com.br/samples/games/banners/blackjack.png"
+            "image": "http://uplay.com.br/samples/games/banners/candyzuma.png"
         },
         {
             "link": "http://uplay.com.br/samples/games/minidrift/html5/index.html ",
@@ -93,7 +93,7 @@
         },
         {
             "link": "http://uplay.com.br/samples/games/donutmaker/index.html",
-            "image": "http://uplay.com.br/samples/games/banners/donutmaker.png"
+            "image": "http://uplay.com.br/samples/games/banners/donnutsmaker.png"
         },
         {
             "link": "https://www.mobi2win.com/html5/jumpescape/",
@@ -106,34 +106,66 @@
     ],
     "podcasts": [
         {
-            "link": "https://www.tested.com/podcast/",
-            "image": "http://placekitten.com/850/446"
+            "link": "http://uplay.com.br/samples/podcast/podcast_1.mp3",
+            "image": "http://uplay.com.br/samples/images/podcast_1.png"
         },
         {
-            "link": "http://www.central3.com.br/podcasts/",
-            "image": "http://placekitten.com/850/446"
+            "link": "http://uplay.com.br/samples/podcast/podcast_2.mp3",
+            "image": "http://uplay.com.br/samples/images/podcast_2.png"
+        },
+        {
+            "link": "http://uplay.com.br/samples/podcast/podcast_3.mp3",
+            "image": "http://uplay.com.br/samples/images/podcast_3.png"
+        },
+        {
+            "link": "http://uplay.com.br/samples/podcast/podcast_4.mp3",
+            "image": "http://uplay.com.br/samples/images/podcast_4.png"
+        },
+        {
+            "link": "http://uplay.com.br/samples/podcast/podcast_5.mp3",
+            "image": "http://uplay.com.br/samples/images/podcast_5.png"
+        },
+        {
+            "link": "http://uplay.com.br/samples/podcast/podcast_6.mp3",
+            "image": "http://uplay.com.br/samples/images/podcast_6.png"
+        },
+        {
+            "link": "http://uplay.com.br/samples/podcast/podcast_7.mp3",
+            "image": "http://uplay.com.br/samples/images/podcast_7.png"
+        },
+        {
+            "link": "http://uplay.com.br/samples/podcast/podcast_8.mp3",
+            "image": "http://uplay.com.br/samples/images/podcast_8.png"
+        },
+        {
+            "link": "http://uplay.com.br/samples/podcast/podcast_9.mp3",
+            "image": "http://uplay.com.br/samples/images/podcast_9.png"
+        },
+        {
+            "link": "http://uplay.com.br/samples/podcast/podcast_10.mp3",
+            "image": "http://uplay.com.br/samples/images/podcast_10.png"
         }
     ],
     "tvSeries": [
         {
             "link": "https://vimeo.com/220852977",
-            "image": "http://placekitten.com/850/446"
+            "image": "http://uplay.com.br/samples/images/teaexplorer.png"
         },
         {
             "link": "https://vimeo.com/235399950",
-            "image": "http://placekitten.com/850/446"
+            "image": "http://uplay.com.br/samples/images/captainofutopia.png"
         },
         {
             "link": "https://vimeo.com/184767170",
-            "image": "http://placekitten.com/850/446"
+            "image": "http://uplay.com.br/samples/images/moosemeat.png"
         },
         {
             "link": "https://filmpttw.com",
-            "image": "http://placekitten.com/850/446"
+            "image": "http://uplay.com.br/samples/images/polinesios.png"
         },
         {
             "link": "https://vimeo.com/154234506/08e41b3dcd",
-            "image": "http://placekitten.com/850/446"
+            "image": "http://uplay.com.br/samples/images/forest.png"
         }
     ]
 }
