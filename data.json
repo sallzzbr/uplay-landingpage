@@ -1,0 +1,139 @@
+{
+    "youtubers": [
+        {
+            "name": "BreakingTrail",
+            "link": "https://www.youtube.com/user/BreakingTrail",
+            "image": "http://uplay.com.br/samples/images/bravewilderness.png"
+        },
+        {
+            "name": "goodmythical",
+            "link": "https://www.youtube.com/user/rhettandlink2",
+            "image": "http://uplay.com.br/samples/images/goodmythical.png"
+        },
+        {
+            "name": "harlem",
+            "link": "https://www.youtube.com/channel/UC_HgtI1WieWXTJu-EWHGr9w",
+            "image": "http://uplay.com.br/samples/images/harlem.png"
+        },
+        {
+            "name": "adamsavage",
+            "link": "https://www.youtube.com/user/testedcom",
+            "image": "http://uplay.com.br/samples/images/adamsavage.png"
+        },
+        {
+            "name": "superwoman",
+            "link": "https://www.youtube.com/user/IISuperwomanII",
+            "image": "http://uplay.com.br/samples/images/superwoman.png"
+        },
+        {
+            "name": "swoozie",
+            "link": "https://www.youtube.com/user/swoozie06",
+            "image": "http://uplay.com.br/samples/images/swoozie.png"
+        },
+        {
+            "name": "attache",
+            "link": "https://www.youtube.com/channel/UCbkrifxiaHa0nVwW2sDCVqw",
+            "image": "http://uplay.com.br/samples/images/attache.png"
+        },
+        {
+            "name": "polinesios",
+            "link": "https://www.youtube.com/user/LosPolinesios/featured",
+            "image": "http://uplay.com.br/samples/images/polinesios.png"
+        },
+        {
+            "name": "enchufetv",
+            "link": "https://www.youtube.com/user/enchufetv",
+            "image": "http://uplay.com.br/samples/images/enchufetv.png"
+        },
+        {
+            "name": "tingting",
+            "link": "https://www.youtube.com/channel/UClqNSqnWeOOUVkzcJFj4rBw",
+            "image": "http://uplay.com.br/samples/images/tingting.png"
+        },
+        {
+            "name": "mispastelitos",
+            "link": "https://www.youtube.com/user/mispastelitosyoutub",
+            "image": "http://uplay.com.br/samples/images/mispastelitos.png"
+        },
+        {
+            "name": "thefinebros",
+            "link": "https://www.youtube.com/user/TheFineBros",
+            "image": "http://uplay.com.br/samples/images/thefinebros.png"
+        },
+        {
+            "name": "nikkie",
+            "link": "https://www.youtube.com/user/NikkieTutorials",
+            "image": "http://uplay.com.br/samples/images/nikkie.png"
+        }        
+    ], 
+    "games": [
+        {
+            "link": "https://previews.customer.envatousercontent.com/files/205901492/index.html ",
+            "image": "http://uplay.com.br/samples/games/banners/scaryrun.png"
+        },
+        {
+            "link": "http://uplay.com.br/samples/games/mafiabilliards/index.html",
+            "image": "http://uplay.com.br/samples/games/banners/mafiabilliards.png"
+        },
+        {
+            "link": "https://www.mobi2win.com/html5/candyzuma/",
+            "image": "http://uplay.com.br/samples/games/banners/blackjack.png"
+        },
+        {
+            "link": "http://uplay.com.br/samples/games/minidrift/html5/index.html ",
+            "image": "http://uplay.com.br/samples/games/banners/minidrifts.png "
+        },
+        {
+            "link": "http://uplay.com.br/samples/games/horseracing/html5/index.html",
+            "image": "http://uplay.com.br/samples/games/banners/horseracing.png"
+        },
+        {
+            "link": "http://uplay.com.br/samples/games/blackjack/html5/index.html",
+            "image": "http://uplay.com.br/samples/games/banners/blackjack.png"
+        },
+        {
+            "link": "http://uplay.com.br/samples/games/donutmaker/index.html",
+            "image": "http://uplay.com.br/samples/games/banners/donutmaker.png"
+        },
+        {
+            "link": "https://www.mobi2win.com/html5/jumpescape/",
+            "image": "http://uplay.com.br/samples/games/banners/jumpescape.png"
+        },
+        {
+            "link": "http://uplay.com.br/samples/games/makeup/html5/index.html",
+            "image": "http://uplay.com.br/samples/games/banners/makeup.png"
+        }
+    ],
+    "podcasts": [
+        {
+            "link": "https://www.tested.com/podcast/",
+            "image": "http://placekitten.com/850/446"
+        },
+        {
+            "link": "http://www.central3.com.br/podcasts/",
+            "image": "http://placekitten.com/850/446"
+        }
+    ],
+    "tvSeries": [
+        {
+            "link": "https://vimeo.com/220852977",
+            "image": "http://placekitten.com/850/446"
+        },
+        {
+            "link": "https://vimeo.com/235399950",
+            "image": "http://placekitten.com/850/446"
+        },
+        {
+            "link": "https://vimeo.com/184767170",
+            "image": "http://placekitten.com/850/446"
+        },
+        {
+            "link": "https://filmpttw.com",
+            "image": "http://placekitten.com/850/446"
+        },
+        {
+            "link": "https://vimeo.com/154234506/08e41b3dcd",
+            "image": "http://placekitten.com/850/446"
+        }
+    ]
+}
